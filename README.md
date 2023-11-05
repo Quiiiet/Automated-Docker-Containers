@@ -1,4 +1,4 @@
-# Project name: Automated Docker Containers
+# Automated Docker Containers
 
 # Overview:
 The Docker Container Setup project aims to provide an automated script for setting up Docker containers based on user preferences. The script allows users to choose an operating system (Ubuntu, openSUSE, CentOS, or a custom image) and optionally install software within the container. The script handles the installation and configuration of Docker, pulls the specified Docker image, and customizes the container based on the user's choices.
