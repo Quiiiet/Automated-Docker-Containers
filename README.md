@@ -60,10 +60,3 @@ Following this, the container will begin to be configured and set up.
 Once completed, the container will be ready for use. The user should enter the provided command to log into the container.
 
 ![10](https://files.filterhost.net/index.php/s/Ec53d7dHcfkYntH/preview)
-
- 
-
-# Team Members:
-- Faris AlJohani - https://github.com/Quiiiet
-- Abudlaziz Jarman - https://github.com/ajarman1
-- Muhannd AlZahrani - https://github.com/MuhannadX77
